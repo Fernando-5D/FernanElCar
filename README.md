@@ -4,4 +4,4 @@
 #### como borro
 ##### sigan forzando
 ###### ifififififfi como que eto huele a jerryzila
-####### porque se la tiras al volcan andante
+##### pero porque se la tiras al volcan andante
