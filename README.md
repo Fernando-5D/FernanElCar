@@ -8,3 +8,4 @@
 _When haces momos en el readme el futuro es hoy escuchates jerry_
 # But ponen la de sugar de mass y esta bien bonita nononono
 ## e pero ya callate
+### BUT LALIN NO SE DA CUENTA DE QUE ME PUEDO ROBAR TODOS SUS CODIGOS 😈
