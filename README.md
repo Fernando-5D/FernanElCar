@@ -8,4 +8,4 @@
 **El mejor jugador de DiRT3 de todo Cd. Juarez** 🥇 <br>
  
 ## Fotografía
-![Yo](yoNuevo.jpeg) 
+<img src="yoNuevo.jpeg" width="300"/>
